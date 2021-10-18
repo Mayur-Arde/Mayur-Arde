@@ -26,5 +26,7 @@ Here are some ideas to get you started:
 ## Tools:
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white) ![enter image description here](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![enter image description here](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
+
 ![stats](https://github-readme-stats.vercel.app/api?username=Mayur-Arde)<br>
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur-Arde)<br>
 ![streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=Mayur-Arde)
