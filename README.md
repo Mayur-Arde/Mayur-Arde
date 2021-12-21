@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # Hello Devs  👋  I'm Mayur Arde.
 ### I’m a learning Full Stack Web Developer . I love developing new skills. I want to  **make things**  that  **make a difference**  !!
-[My Portfolio](https://mayur-arde-portfolio.netlify.app/)<br>
+[My Portfolio](https://mayur-arde.netlify.app/)<br>
 [My Blogs](https://mayur-arde-portfolio.netlify.app/blogs.html)
 
 ## Languages And Skills:
